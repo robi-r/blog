@@ -1,0 +1,4 @@
+[submodule "robi-rblogpost/public"]
+	path = robi-rblogpost/public
+	url = https://github.com/robi-r/robi-r.github.io.git
+	branch = main
